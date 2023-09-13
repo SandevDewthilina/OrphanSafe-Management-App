@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765444392899",
+    "project_id": "orphansafe-mangement-frontend",
+    "storage_bucket": "orphansafe-mangement-frontend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765444392899:android:839f51b9703a6f6663df76",
+        "android_client_info": {
+          "package_name": "com.ecodeit.orphansafe_management_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765444392899-ps295o9oeti94e51041r8qpns44a702j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK3U7XwLtllLFYnGnKfaPu5VeQvxfmST4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765444392899-ps295o9oeti94e51041r8qpns44a702j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
